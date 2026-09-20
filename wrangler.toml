@@ -1,0 +1,4 @@
+name = "the-last-call"
+main = "api/index.ts"
+compatibility_date = "2026-01-01"
+# Configure secrets and external Redis separately for production.
